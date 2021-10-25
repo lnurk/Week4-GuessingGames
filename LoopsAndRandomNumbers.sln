@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndRandomNumbers", "LoopsAndRandomNumbers\LoopsAndRandomNumbers.csproj", "{CCEF5E80-32DB-49DD-BC9C-70C5A31D8EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PINInfiniteLoop", "PINInfiniteLoop\PINInfiniteLoop.csproj", "{CE7B75E8-2CCB-448E-9B31-965B36F516F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumber", "RandomNumber\RandomNumber.csproj", "{1C4163DB-0841-4A41-9E10-EA0260AAEF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGameInfinite", "GuessingGameInfinite\GuessingGameInfinite.csproj", "{CCC54FF4-E46C-4A76-8F0A-2314D973AC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGameThreeTries", "GuessingGameThreeTries\GuessingGameThreeTries.csproj", "{20B4E1B8-0063-4C1F-A6C8-C16C1286F81A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEF5E80-32DB-49DD-BC9C-70C5A31D8EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEF5E80-32DB-49DD-BC9C-70C5A31D8EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEF5E80-32DB-49DD-BC9C-70C5A31D8EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEF5E80-32DB-49DD-BC9C-70C5A31D8EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7B75E8-2CCB-448E-9B31-965B36F516F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7B75E8-2CCB-448E-9B31-965B36F516F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7B75E8-2CCB-448E-9B31-965B36F516F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7B75E8-2CCB-448E-9B31-965B36F516F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4163DB-0841-4A41-9E10-EA0260AAEF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4163DB-0841-4A41-9E10-EA0260AAEF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4163DB-0841-4A41-9E10-EA0260AAEF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4163DB-0841-4A41-9E10-EA0260AAEF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC54FF4-E46C-4A76-8F0A-2314D973AC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC54FF4-E46C-4A76-8F0A-2314D973AC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC54FF4-E46C-4A76-8F0A-2314D973AC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC54FF4-E46C-4A76-8F0A-2314D973AC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B4E1B8-0063-4C1F-A6C8-C16C1286F81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B4E1B8-0063-4C1F-A6C8-C16C1286F81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B4E1B8-0063-4C1F-A6C8-C16C1286F81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B4E1B8-0063-4C1F-A6C8-C16C1286F81A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075B9251-D5A0-45BE-B351-665BCFC5A47E}
+	EndGlobalSection
+EndGlobal
